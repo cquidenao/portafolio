@@ -21,4 +21,4 @@
 
 ## Imágenes
 
-![Captura de pantalla del Proyecto 1](../portafolio/public/pagina.png)
+(../portafolio/public/pagina.png)
