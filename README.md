@@ -17,3 +17,8 @@
 ¡Me encantaría conectarme contigo! Puedes contactarme en c.a.p.quidenaogmail.com.
 
 ¡Gracias por visitar mi portafolio! Estoy emocionado por la posibilidad de trabajar en proyectos emocionantes y colaborar contigo. ¡Hablemos pronto!
+
+
+## Imágenes
+
+![Captura de pantalla del Proyecto 1](./img/captura_proyecto.png)
