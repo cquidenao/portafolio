@@ -51,7 +51,7 @@ export const projects = [
     name: "Portafolio",
     description:
       "El mundo laboral exige a los profesionales presentar de una manera adecuada sus fortalezas y habilidades de comunicación para tener una mayor oportunidad de contratación, o en caso de que emprendas, obtener clientes.",
-    image: "portfolio6.jpeg",
+    image: "cata.jpg",
   },
 ];
 
